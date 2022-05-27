@@ -17,4 +17,17 @@ Separate formatting from data retrieval. Add acknowledgement tag.
 - Fast to retrieve due to the cache in the broker. 
 - Easy to add new exchange APIs and update design.
 ## To-do
-## Required libraries
+## Required libraries 
+## Links
+#### Exchangers:
+###### Paid:
+https://www.xe.com/xecurrencydata/
+https://www.iban.com/forex-reference-suite
+https://free.currencyconverterapi.com/
+https://exchangeratesapi.io/ (free first 250 reqs)
+###### Free:
+https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml
+https://openexchangerates.org/
+
+## Notes
+Ask about Bloomberg API and how to integrate it
